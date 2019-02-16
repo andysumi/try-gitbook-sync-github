@@ -4,3 +4,4 @@
   - [first](docs/first.md)
   - [second](docs/second.md)
   - [third](docs/third.md)
+  - [sample](docs/sample.md)
